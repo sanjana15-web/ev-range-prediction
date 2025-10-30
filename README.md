@@ -1,8 +1,5 @@
 # ev-range-prediction
 Predict the driving range of electric vehicles using their specifications (battery size, model, and performance metrics) with machine learning.
-# ev-range-prediction
-
-Predict the driving range of electric vehicles using their specifications (battery size, model, and performance metrics) with machine learning.
 
 ## Problem Statement
 Develop and evaluate machine learning models to predict the driving range (in kilometers) of electric vehicles based on technical specifications such as battery capacity, car model, and performance metrics.
